@@ -1,7 +1,7 @@
 known languages :
--  c++ , python, bash
+-  C++, C , Python, Bash
 
 planned languages :
--  C, powershell
+-  Powershell, Rust
 
-i hope to expand my expertise and branch out more aswell as build my professional profile
+I hope to expand my expertise and branch out more aswell as build my professional profile.
